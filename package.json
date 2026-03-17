@@ -1,0 +1,24 @@
+{
+  "name": "sql-report-builder",
+  "version": "1.0.0",
+  "description": "AI-powered SQL query builder and report generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sid722/sql-report-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sid722/sql-report-builder/issues"
+  },
+  "homepage": "https://github.com/Sid722/sql-report-builder#readme",
+  "dependencies": {
+    "@faker-js/faker": "^10.3.0",
+    "better-sqlite3": "^12.8.0"
+  }
+}
